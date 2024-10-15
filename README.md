@@ -38,5 +38,6 @@ and movies
 payment method, paperless billing, monthly charges, and total charges
 -  Demographic info about customers – gender, age range, and if they have partners
 and dependents
+
 Implementation:
 Libraries: sklearn, Matplotlib, pandas, seaborn, and NumPy
